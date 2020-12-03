@@ -4,3 +4,6 @@
 好啊
 
 顯然
+```python
+print("Hello~")
+```
